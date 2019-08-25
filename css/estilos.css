@@ -28,3 +28,6 @@ footer {
 	margin-top: 15px;
 	text-align: center;
 }
+#contenido p img{
+	float: right;
+}
