@@ -22,3 +22,9 @@ footer {
 	margin-top: 15px;
 	text-align: center;
 }
+#menu-principal ul {
+float: left;
+width: 200px;
+padding: 0;
+margin: 0;
+}
